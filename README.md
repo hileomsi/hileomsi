@@ -1,6 +1,6 @@
 ### Hii, my name is Hiléo, I'm a full stack developer focused in good coding practices
 
-<div align="center">
+<div>
   <a href="https://github.com/hileomsi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hileomsi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hileomsi&layout=compact&langs_count=7&theme=dracula"/>
