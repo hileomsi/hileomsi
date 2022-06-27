@@ -1,4 +1,4 @@
-### Hii, my name is Hiléo, I'm a full stack developer focused in good coding practices
+### Hii, my name is Hiléo, I'm a full stack developer focused on good coding practices
 
 <div>
   <a href="https://github.com/hileomsi">
